@@ -23,7 +23,7 @@ int main() {
     cout << "4: Sair\n";
     cin >> escolha;
 
-    // Criando um motor de geração de números aleatórios
+
     mt19937 gerador(random_device{}());
 
 
